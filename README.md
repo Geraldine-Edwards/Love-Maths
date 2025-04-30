@@ -11,7 +11,7 @@
 
 Love Maths is a coding module project developed as part of the Code Institute Full Stack Software Development For The AI Augmented Developer Bootcamp, consisting of learning outcomes that utilise HTML5, CSS3, Bootstrap 5.3.3, Javascript and GitHub Copilot .
 
-The LIVE PROJECT can found here: <a href="https://github.com/Gerbil1511/Love-Maths" target="_blank">Love Maths</a>
+The LIVE PROJECT can found here: <a href="https://geraldine-edwards.github.io/Love-Maths/" target="_blank">Love Maths</a>
 
 
 ## Credits
